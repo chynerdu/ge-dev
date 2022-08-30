@@ -1,0 +1,4 @@
+#Tue Aug 30 14:08:34 WAT 2022
+base.0=/Users/user/Documents/Projects/tests/getask/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
