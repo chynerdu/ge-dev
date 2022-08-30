@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+## Executable Task APK is in the root of the project folder "app-release.apk"
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
